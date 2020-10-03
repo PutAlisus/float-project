@@ -1,0 +1,24 @@
+/* margin: 0 auto;  */
+.container {
+    margin: 0 auto;
+    max-width: 1150px;
+}
+
+.about__title {
+    font-size: 32px;
+    font-family: "Roboto";
+}
+
+.about__description {
+    margin-top: 50px;
+    text-align: center;
+}
+.about__wrapper {
+    padding-top: 119px;
+    padding-bottom: 100px;
+}
+/* width: 16.66% for items */
+
+.about {
+    clear: both;
+}

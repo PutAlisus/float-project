@@ -1,0 +1,40 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap'); */
+@font-face{
+    font-family: "Roboto";
+    src: url("Fonts/Roboto-Regular.ttf"); 
+    font-weight: 400;
+    font-display: swap;
+
+}
+/* .item{
+    background: #ff0000;
+}
+
+.item {
+    background-color: blue;
+} */
+.item {
+    transition: all .3;
+}
+
+ .item:hover {
+     color: green;
+     transition: all .3;
+ }
+
+a:visited {
+    color: green;
+}
+
+input:focus {
+    background-color: #ff0000;
+}
+
+.box:first-child {
+    color: lime;
+}
+
+p {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+}
